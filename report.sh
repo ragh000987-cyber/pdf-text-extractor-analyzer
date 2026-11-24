@@ -2,8 +2,7 @@
 
 generate_report() {
     reportfile="reports/${filename}_report.txt"
-
-    {
+ {
         echo "========================================"
         echo "       PDF TEXT ANALYSIS REPORT"
         echo "========================================"
