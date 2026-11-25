@@ -1,8 +1,7 @@
 # PDF Text Extractor & Analyzer
 
 ## Objective
-Extract text from PDF documents and analyze their content using Bash shell scripting.
-
+Extract text from PDF documents and analyze their content using Bash shell scripting, regular expressions, and AWK.
 ## Features
 - PDF text extraction
 - Date extraction using regular expressions
