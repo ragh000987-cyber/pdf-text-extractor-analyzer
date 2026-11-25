@@ -32,4 +32,4 @@ sudo apt install poppler-utils gawk
 2. Run chmod +x main.sh
 3. Run ./main.sh
 4. Enter the PDF filename.
-5. Select an option from the menu.
+5. Select an option from the menu
